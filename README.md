@@ -17,7 +17,7 @@
 - git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever. 
 - git remote add origin [url], perintah untuk menambahkan remote server/repository server pada local repositry (working directory) 
 
-## Membuat Reposiory Local ##
+## Membuat Repository Local ##
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
 - klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command 
 - Buat direktory project praktikum pertama dengan nama latihan1
@@ -28,7 +28,7 @@
  
 	>> $ cd latihan1
 
-## Membuat Reposiory Local ##
+## Membuat Repository Local ##
 - Jalankan perintah git init, untuk membuat repository local.
 - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git 
 - Pada direktori tersebut, semua perubahan pada working directory akan disimpan. 
